@@ -1,0 +1,6 @@
+# External Rate Card Config
+base_rate=30.00
+fat_step_value=0.40
+snf_step_value=0.30
+standard_fat=3.5
+standard_snf=8.5

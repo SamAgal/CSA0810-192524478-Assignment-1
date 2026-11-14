@@ -1,0 +1,4 @@
+# Batch sizes: 1 centre, 1 block, 1 district union
+300
+6000
+150000
