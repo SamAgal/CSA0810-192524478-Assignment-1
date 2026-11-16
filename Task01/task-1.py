@@ -1,5 +1,3 @@
-"""Task 1: Understand the Problem and Identify the Data."""
-
 import os
 
 BASE_RATE = 30.00
